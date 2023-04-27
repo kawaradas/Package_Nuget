@@ -1,0 +1,10 @@
+C:\Users\Systena\Desktop\PowerPlatform\Azure DevOps\Azure Artifacts\Artifacts_test\bin\Debug\netstandard2.0\Artifacts_test.deps.json
+C:\Users\Systena\Desktop\PowerPlatform\Azure DevOps\Azure Artifacts\Artifacts_test\bin\Debug\netstandard2.0\Artifacts_test.dll
+C:\Users\Systena\Desktop\PowerPlatform\Azure DevOps\Azure Artifacts\Artifacts_test\bin\Debug\netstandard2.0\Artifacts_test.pdb
+C:\Users\Systena\Desktop\PowerPlatform\Azure DevOps\Azure Artifacts\Artifacts_test\obj\Debug\netstandard2.0\Artifacts_test.csproj.AssemblyReference.cache
+C:\Users\Systena\Desktop\PowerPlatform\Azure DevOps\Azure Artifacts\Artifacts_test\obj\Debug\netstandard2.0\Artifacts_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Systena\Desktop\PowerPlatform\Azure DevOps\Azure Artifacts\Artifacts_test\obj\Debug\netstandard2.0\Artifacts_test.AssemblyInfoInputs.cache
+C:\Users\Systena\Desktop\PowerPlatform\Azure DevOps\Azure Artifacts\Artifacts_test\obj\Debug\netstandard2.0\Artifacts_test.AssemblyInfo.cs
+C:\Users\Systena\Desktop\PowerPlatform\Azure DevOps\Azure Artifacts\Artifacts_test\obj\Debug\netstandard2.0\Artifacts_test.csproj.CoreCompileInputs.cache
+C:\Users\Systena\Desktop\PowerPlatform\Azure DevOps\Azure Artifacts\Artifacts_test\obj\Debug\netstandard2.0\Artifacts_test.dll
+C:\Users\Systena\Desktop\PowerPlatform\Azure DevOps\Azure Artifacts\Artifacts_test\obj\Debug\netstandard2.0\Artifacts_test.pdb

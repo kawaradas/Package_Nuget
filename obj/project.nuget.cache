@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vwEo8n6bkD/AN2J7bgnoZuWJRAdxI4WvQP4lzprY55oQMIHM3SkGwO+ymg5Ofm1BVwu8kYMnkNMSVm9r9LJk+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Systena\\Desktop\\PowerPlatform\\Azure DevOps\\Azure Artifacts\\Artifacts_test\\Artifacts_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Systena\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Systena\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

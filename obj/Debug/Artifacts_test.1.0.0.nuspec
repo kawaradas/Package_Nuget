@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Artifacts_test</id>
+    <version>1.0.0</version>
+    <authors>Artifacts_test</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Systena\Desktop\PowerPlatform\Azure DevOps\Azure Artifacts\Artifacts_test\bin\Debug\netstandard2.0\Artifacts_test.dll" target="lib\netstandard2.0\Artifacts_test.dll" />
+  </files>
+</package>
